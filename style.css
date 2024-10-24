@@ -107,7 +107,7 @@ body {
     color: var(--text-dark);
 }
 
-.nav-icon {
+.nav-icons {
     display: flex;
     gap: 1rem;
 }
