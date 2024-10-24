@@ -248,8 +248,7 @@ background-color: var(--text-dark);
     content: "";
     height: 100%;
     width: 100%;
-    top: -100%;
-    left: 0;
+    left: -100%;
     background-color: rgba(0, 0, 0, 0.5);
     transition: 0.5s;
 }
@@ -258,6 +257,7 @@ background-color: var(--text-dark);
     color: var(--text-dark);
     background-color: var(--white);
 }
+
 
 .musthave-nav {
     display: flex;
